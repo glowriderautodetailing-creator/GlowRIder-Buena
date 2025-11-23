@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Glow Deluxe | GlowRider AutoDetailing</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Glow Deluxe</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="services.html">Services</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+    <a href="socials.html">Socials</a>
+  </nav>
+</header>
+<div class="container">
+  <p><strong>Starting at: $240+</strong></p>
+  <p>Premium full detail: deep interior cleaning, exterior wash, polish, wax, and protection.</p>
+  <br>
+  <a class="btn" href="contact.html">Contact Us</a>
+</div>
+<footer>© 2025 GlowRider AutoDetailing</footer>
+</body>
+</html>
