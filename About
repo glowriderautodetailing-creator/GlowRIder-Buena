@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Us | GlowRider AutoDetailing</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>About Us</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="services.html">Services</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+    <a href="socials.html">Socials</a>
+  </nav>
+</header>
+
+<div class="container">
+  <h2 class="section-title">Our Mission</h2>
+  <p>I started GlowRider AutoDetailing with a simple goal: provide clean, honest, affordable detailing that makes people proud of their cars.  
+  I focus on quality over volume — every car gets the same attention and care. My mission is to build trust and long-term clients while growing my experience and expanding services over time.</p>
+</div>
+
+<footer>© 2025 GlowRider AutoDetailing</footer>
+
+</body>
+</html>
